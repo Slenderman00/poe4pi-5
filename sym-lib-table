@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2025-10-23_14-17-03")(type "KiCad")(uri "${KIPRJMOD}/2025-10-23_14-17-03.kicad_sym")(options "")(descr ""))
+  (lib (name "lsi")(type "KiCad")(uri "${KIPRJMOD}/lsi.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,16 @@
+Reference;Quantity;Identifier;Footprint;Value;Tolerance;Voltage;Current;Power;PN
+R2,R3;2;;R_01005_0402Metric;20m;;;;;
+U1;1;;DFN-10_DD_LIT;LTC4413EDD-2-PBF;;;;;
+LSI-U1,LSI-U2;2;;lsi-powermodule-7;lsi-powermodule-7;;;;;
+R5,R4;2;;R_1210_3225Metric;100m;;;;;
+R1,R12;2;;R_0402_1005Metric;0;;;;;
+C15;1;;C_0402_1005Metric;100nF 100V;;;;;
+D2,D1;2;;Diode_Bridge_OnSemi_SDIP-4L;DF01S;;;;;
+R22;1;;R_0402_1005Metric;24.9K;;;;;
+C2,C6,C4,C3,C1,C5;6;;C_1210_3225Metric;47 uf;;;;;
+J2,J1;2;;PinSocket_2x02_P2.54mm_Vertical;Conn_02x02_Odd_Even;;;;;
+R23;1;;R_0402_1005Metric;180K;;;;;
+R24;1;;R_0402_1005Metric;4.42K;;;;;
+D4;1;;D_SMA;SMAJ58A;;;;;
+U3;1;;TSSOP-8_4.4x3mm_P0.65mm;TPS2375-1;;;;;
+J3;1;;PinHeader_2x20_P2.54mm_Vertical;Conn_02x20_Odd_Even;;;;;
